@@ -24,7 +24,7 @@ ECHO is a secure peer-to-peer communication web application.
 4. Connect and start chatting.
 
 ## Live Website
-https://YOUR_USERNAME.github.io/echo-p2p-chat/
+https://laerproject01.github.io/WebRtc-Application-Prototype-01/
 
 ## Project Type
 Peer-to-Peer Secure Communication System
